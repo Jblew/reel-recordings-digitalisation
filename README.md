@@ -18,5 +18,8 @@ Plan:
 
 ![Input sockets](./zk-140t-docs/input-sockets.png)
 
+![Rear panel](./zk-140t-docs/rear-panel.jpg)
 
+ ![51k ohm output](./zk-140t-docs/15kohm-output.png)
 
+Meaning the amplitude is approximately 4-5V and the output impendance is 51kohm.
